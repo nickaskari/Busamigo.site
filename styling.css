@@ -1,0 +1,38 @@
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: rgb(255, 37, 80);
+    width: 100%;
+    padding: 10px;
+}
+.logo {
+    width: 60px;
+    float: left;
+    margin-right: 20px;
+    margin-left: 10px;
+    margin-top: 20px;
+  }
+
+.titleText {
+    font-weight: bold;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.article {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+}
+
+.articleTitle {
+    color: black;
+    font-weight: bold;
+}
+
+
+
